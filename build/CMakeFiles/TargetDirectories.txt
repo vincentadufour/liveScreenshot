@@ -1,0 +1,3 @@
+/home/vincent/Documents/Projects/liveScreenshot/build/CMakeFiles/liveScreenshot.dir
+/home/vincent/Documents/Projects/liveScreenshot/build/CMakeFiles/edit_cache.dir
+/home/vincent/Documents/Projects/liveScreenshot/build/CMakeFiles/rebuild_cache.dir
